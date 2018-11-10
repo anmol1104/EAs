@@ -1,6 +1,7 @@
+"""Differential Evolution"""
+
+
 import numpy as np
-import matplotlib as mpl
-mpl.use('TkAgg')#Only for Mac
 import matplotlib.pyplot as plt
 
 d = 2   # dimension
