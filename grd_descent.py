@@ -1,3 +1,6 @@
+"""Gradient descent"""
+
+
 import numpy as np
 import matplotlib as mpl
 mpl.use('TkAgg')#Only for Mac
