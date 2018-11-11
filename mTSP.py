@@ -1,3 +1,5 @@
+"""m-fleet Traveling Salesman Problem"""
+
 import numpy as np
 import matplotlib as mpl
 mpl.use('TkAgg')#Only for Mac
