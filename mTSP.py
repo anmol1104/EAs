@@ -1,4 +1,4 @@
-"""m-fleet Traveling Salesman Problem"""
+"""m-fleet Traveling Salesman Problem(TSP)"""
 
 import numpy as np
 import matplotlib as mpl
